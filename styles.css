@@ -1,6 +1,11 @@
-.container{
+.wr{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    width: 50%;
+    align-items: left;
+    width: 1080px;
+}
+
+.small{
+    width: 500px;
+    display: flex;
 }
